@@ -1,6 +1,6 @@
 # WorldCupDataBase
 
-Project Description: World Cup Database for Educational Purposes
+Project Description: World Cup Database PSQL for Educational Purposes
 
 To use the worldcup.sql dump you can use psql -U postgres < worldcup.sql
 Or use the ready script, the script will insert all data from `games.csv` in the database, but the database and the tables has to be created for this.
